@@ -11,7 +11,6 @@ function WonkaInit()
 	PickupMacro("Perf") PlaceAction(76)
 	PickupMacro("Gift") PlaceAction(77)
 	ClearCursor()
-	StaticPopup_Hide("PARTY_INVITE")
 	end
 
 local UIConfig = CreateFrame("Button","WonkaFactory",UIParent,"ActionButtonTemplate")
