@@ -1,0 +1,9 @@
+## Interface: 11306
+## Title: Wonka
+## Author: Lécharles
+## Version: 3.1.6
+## Notes: For making chocolates faster.
+## DefaultState: Disabled
+## LoadOnDemand: 0
+
+Wonka.lua
