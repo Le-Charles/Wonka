@@ -3,8 +3,8 @@ To download and configure:
 Select "Code" then download as a .zip file.  
 Then open the .zip file and change the name of the folder inside to "Wonka" by deleting "-main" off the end.  
 Next, open the "Wonka" folder and open "Wonka.lua".  
-    Change "Charlemage" in line 2 to the mage that will be opening portals.  
-    Change "Charlemage" in line 3 to your mule character.  
+    Change "PORT" in line 2 to the mage that will be opening portals.  
+    Change "MULE" in line 3 to your mule character.  
 Finally, move the "Wonka" folder to your "World of Warcraft/_classic_/Interface/Addons/" folder.  
   
 To use:  
