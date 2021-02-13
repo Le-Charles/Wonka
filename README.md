@@ -16,7 +16,7 @@ Click the big heart button.
 Take the mage port.  
   
 1 will target and trade with your mule and drop you from the portal group.  
-    -Give the level one 1s 3c.  The macro will buy   
+    -Give the level one 1s 3c.  
   
 2 will target the innkeeper.  
   
