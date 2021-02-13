@@ -23,7 +23,7 @@ Take the mage port.
 Click your "interact with target" binding.  
   
 Spamming 3 and 4 after interacting with the innkeeper will, purchase a cologne or perfume respectivle and use it and buys 3 tokens.  
-    -It buys 3 for the off chance you get heartbroken more than once.  
+    -It buys 3 tokens for the off chance you get heartbroken more than once.  
   
 Find an appropriate target with a heart above their head and intearact with them.  
   
