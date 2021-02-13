@@ -5,7 +5,7 @@ Then open the .zip file and change the name of the folder inside to "Wonka" by d
 Next, open the "Wonka" folder and open "Wonka.lua".  
     -Change "PORT" in line 2 to the mage that will be opening portals.  
     -Change "MULE" in line 3 to your mule character.  
-Finally, move the "Wonka" folder to your "World of Warcraft/_classic_/Interface/Addons/" folder. 
+Finally, move the "Wonka" folder to your "World of Warcraft/_classic_/Interface/Addons/" folder.  
 In your game ensure that you have "Intearact With Target" bound in Key Bindings>Targeting and that you have auto-loot turned off.  
   
 To use:  
