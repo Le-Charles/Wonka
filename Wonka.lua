@@ -1,6 +1,6 @@
 function WonkaInit()
-	SendChatMessage("inv", "WHISPER", nil, "Charlemage")
-	CreateMacro("Trade", "INV_MISC_COIN_02", "/target Charlemage \n/run LeaveParty();InitiateTrade('target')", 1)
+	SendChatMessage("inv", "WHISPER", nil, "PORT")
+	CreateMacro("Trade", "INV_MISC_COIN_02", "/target MULE \n/run LeaveParty();InitiateTrade('target')", 1)
 	CreateMacro("InnK", "INV_Misc_Head_Orc_02", "/target Innkeeper", 1)
 	CreateMacro("Colo", "135446", "/run SelectGossipOption(3);BuyMerchantItem(13,1); BuyMerchantItem(15,3); MerchantFrame:Hide() \n/use Cologne Bottle", 1)
 	CreateMacro("Perf", "135447", "/run SelectGossipOption(3);BuyMerchantItem(14,1); BuyMerchantItem(15,3); MerchantFrame:Hide() \n/use Perfume Bottle", 1)
