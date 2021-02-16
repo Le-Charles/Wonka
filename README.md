@@ -9,7 +9,7 @@ Finally, move the "Wonka" folder to your "World of Warcraft/_classic_/Interface/
 In your game ensure that you have "Intearact With Target" bound in Key Bindings>Targeting and that you have auto-loot turned off.  
   
 To use:  
-Create your level 1 and log in.  
+Create a level warrior 1 and log in.  
   
 Click the big heart button.  
   
